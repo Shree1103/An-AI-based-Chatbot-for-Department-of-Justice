@@ -1,0 +1,10 @@
+*.py
+*.csv
+*.xlsx
+*.log
+.env
+__pycache__/
+.vscode/
+.DS_Store
+*.drawio
+*.bak
